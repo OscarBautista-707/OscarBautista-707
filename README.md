@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @OscarBautista-707
+# About Me
+- Hi, I’m @OscarBautista-707
 - I'm Currently a student
-- Am currently learning html, javscript, scss, css,
+
+## What I like
 - I like linux (endeavourOS), Kde, Firefox, and everything foss!
-- I'm also creating a web game with phaser
+- Minecraft, Stardew Valley...
+
+## Currently Working on
+- An online game made with the phaser3 engine
+- Learning javascript, html, css, scss, and general linux things
 
 <!---
 OscarBautista-707/OscarBautista-707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
