@@ -5,6 +5,7 @@
 ## What I like
 - I like linux (endeavourOS), Kde, Firefox, and everything foss!
 - Minecraft, Stardew Valley...
+- Lunarvim (a prebuilt neovim distribution)
 
 ## Currently Working on
 - An online game made with the phaser3 engine
