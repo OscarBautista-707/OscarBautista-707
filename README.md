@@ -3,7 +3,8 @@
 - I'm Currently a student
 
 ## What I like
-- I like linux (endeavourOS), Kde, Firefox, and everything foss!
+- I like linux (I use Arch BTW), KDE, Firefox, and everything foss!
+- Wow, Vivaldi is a cool browser
 - Minecraft, Stardew Valley...
 - Lunarvim (a prebuilt neovim distribution)
 
